@@ -1,0 +1,16 @@
+Praktikum2.ObjectBuku
+Praktikum2.ObjectBuku$1
+UAS.ObjectBuku$2
+Praktikum2.ObjectBuku$6
+UAS.ObjectBuku$1
+Praktikum2.ObjectBuku$7
+UAS.ObjectBuku$4
+UAS.ObjectBuku
+UAS.ObjectBuku$3
+UAS.ObjectBuku$6
+Praktikum2.ObjectBuku$2
+UAS.ObjectBuku$5
+Praktikum2.ObjectBuku$3
+Praktikum2.ObjectBuku$4
+UAS.ObjectBuku$7
+Praktikum2.ObjectBuku$5
